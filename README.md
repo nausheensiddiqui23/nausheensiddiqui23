@@ -8,7 +8,6 @@
 <li>👩‍🎓 Computer Science student at IET-DSMNRU</li>
 <li>🧠 UI Developer</li>
 <li>💻 MERN Stack</li>
-<li>👩‍💼 Intern @codsoft</li>
 <li>📧 Reach me at @nausheenzmr@gmail.com</li>
 </ul>
 </p>
