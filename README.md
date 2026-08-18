@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer · Software Development Engineer · Builder</b>
+  <b>Full-Stack Developer</b>
 </p>
 
 <p align="center">
-  I design and ship reliable, production-grade web applications — end to end.<br>
+  <br>
   Currently a <b>Software Development Engineer @ Reno Platforms</b>, working across
   frontend, backend, APIs, databases, and production systems.
 </p>
