@@ -1,168 +1,122 @@
-# 👋 Hi, I'm Nausheen Siddiqui
+<h1 align="center">Nausheen Siddiqui</h1>
 
-### Full-Stack Developer · Software Development Engineer · Builder
+<p align="center">
+  <b>Full-Stack Developer · Software Development Engineer · Builder</b>
+</p>
 
-I’m a **Computer Science graduate** and **Full-Stack Developer** who enjoys turning ideas into reliable, scalable, and user-focused products.
-
-Currently working as an **SDE at Reno Platforms**, where I build and maintain production-grade web applications, work across frontend and backend systems, and solve real-world engineering problems.
+<p align="center">
+  I design and ship reliable, production-grade web applications — end to end.<br>
+  Currently a <b>Software Development Engineer @ Reno Platforms</b>, working across
+  frontend, backend, APIs, databases, and production systems.
+</p>
 
 <p align="center">
   <a href="mailto:nausheenzmr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nausheensiddiqui23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn" />
   </a>
   <a href="https://github.com/nausheensiddiqui23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://twitter.com/nausheen__23">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/nausheen__23">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </p>
 
----
+<br>
 
-## 🚀 About Me
+## About
 
-* 💻 **Software Development Engineer @ Reno Platforms**
-* 🌐 **Full-Stack Developer** focused on modern web applications
-* 🧠 Interested in **software architecture, scalable systems, and clean engineering**
-* 🛠️ Comfortable working across **frontend, backend, APIs, databases, and deployment**
-* 📚 Always learning, experimenting, and building
-* 🤝 Open to interesting collaborations and challenging engineering problems
+I'm a Computer Science graduate who enjoys turning ideas into scalable, user-focused products. My day-to-day work spans the full stack — modern interfaces, backend services and REST APIs, database-driven systems, authentication and role-based access, and admin dashboards that hold up in production.
 
----
+I care about software architecture, scalable systems, and clean engineering, and I'm currently going deeper into system design, database design, and production engineering. Always open to interesting collaborations and challenging problems.
 
-## 🧰 Tech Stack
+<br>
 
-### Languages
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/CSS-1a1b27?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Canva-1a1b27?style=for-the-badge" alt="Canva" />
+    </td>
+  </tr>
+</table>
 
-### Frontend
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-## 💡 What I Like Building
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🌐  Full-Stack Web Applications                            │
-│   ⚙️  Backend Systems & REST APIs                            │
-│   🗄️  Database-Driven Applications                           │
-│   🎨  Modern & Responsive Interfaces                         │
-│   🔐  Authentication & Role-Based Systems                    │
-│   📊  Admin Dashboards & Management Platforms                │
-│   🚀  Production-Ready Software                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nausheensiddiqui23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nausheensiddiqui23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nausheensiddiqui23&theme=tokyonight" alt="GitHub profile overview" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nausheensiddiqui23&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nausheensiddiqui23&theme=tokyonight" alt="GitHub stats" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nausheensiddiqui23&theme=tokyonight" alt="Top languages by repository" height="185" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nausheensiddiqui23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://streak-stats.demolab.com?user=nausheensiddiqui23&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
+<br>
 
-## 📈 Contribution Activity
+## Let's Connect
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nausheensiddiqui23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Software Architecture
-        ↓
-Scalable Backend Systems
-        ↓
-Database Design
-        ↓
-System Design
-        ↓
-Production Engineering
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in **building useful products, learning new technologies, and collaborating on interesting ideas.**
+I'm always interested in building useful products, learning new technologies, and collaborating on interesting ideas. The fastest ways to reach me:
 
 <p align="center">
   <a href="mailto:nausheenzmr@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let's%20Talk-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me" />
   </a>
   <a href="https://www.linkedin.com/in/nausheensiddiqui23/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="Connect on LinkedIn" />
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <i>“Build. Learn. Improve. Repeat.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find something interesting here, feel free to explore my repositories.
+  <i>Build. Learn. Improve. Repeat.</i>
 </p>
