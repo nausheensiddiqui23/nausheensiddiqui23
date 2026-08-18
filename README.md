@@ -1,34 +1,168 @@
-![0](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg )
+# 👋 Hi, I'm Nausheen Siddiqui
 
-<div align="center"><h2> Hey 👋 , I am Nausheen Siddiqui.</h2>
-<h3><i>A passionate Coder , Developer and a Learner.</i></h3></div>
+### Full-Stack Developer · Software Development Engineer · Builder
 
-<p>
-  <ul>
-<li>👩‍🎓 Computer Science student at IET-DSMNRU</li>
-<li>🧠 Full Stack Developer</li>
-<li>💻 SDE @ Reno Platforms</li>
-<li>📧 Reach me at @nausheenzmr@gmail.com</li>
-</ul>
+I’m a **Computer Science graduate** and **Full-Stack Developer** who enjoys turning ideas into reliable, scalable, and user-focused products.
+
+Currently working as an **SDE at Reno Platforms**, where I build and maintain production-grade web applications, work across frontend and backend systems, and solve real-world engineering problems.
+
+<p align="center">
+  <a href="mailto:nausheenzmr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nausheensiddiqui23/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nausheensiddiqui23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/nausheen__23">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/nausheen__23">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-🌐 Connect with me:
-<p align="left"> <a href="mailto:nausheenzmr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://www.linkedin.com/in/nausheensiddiqui23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://twitter.com/nausheen__23" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a> <a href="https://github.com/nausheensiddiqui23" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.instagram.com/nausheen__23" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nausheensiddiqui23&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nausheensiddiqui23&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nausheensiddiqui23&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nausheensiddiqui23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nausheensiddiqui23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 💻 **Software Development Engineer @ Reno Platforms**
+* 🌐 **Full-Stack Developer** focused on modern web applications
+* 🧠 Interested in **software architecture, scalable systems, and clean engineering**
+* 🛠️ Comfortable working across **frontend, backend, APIs, databases, and deployment**
+* 📚 Always learning, experimenting, and building
+* 🤝 Open to interesting collaborations and challenging engineering problems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nausheensiddiqui23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 💡 What I Like Building
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🌐  Full-Stack Web Applications                            │
+│   ⚙️  Backend Systems & REST APIs                            │
+│   🗄️  Database-Driven Applications                           │
+│   🎨  Modern & Responsive Interfaces                         │
+│   🔐  Authentication & Role-Based Systems                    │
+│   📊  Admin Dashboards & Management Platforms                │
+│   🚀  Production-Ready Software                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nausheensiddiqui23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nausheensiddiqui23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nausheensiddiqui23&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nausheensiddiqui23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nausheensiddiqui23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Software Architecture
+        ↓
+Scalable Backend Systems
+        ↓
+Database Design
+        ↓
+System Design
+        ↓
+Production Engineering
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **building useful products, learning new technologies, and collaborating on interesting ideas.**
+
+<p align="center">
+  <a href="mailto:nausheenzmr@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nausheensiddiqui23/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Improve. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, feel free to explore my repositories.
+</p>
