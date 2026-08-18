@@ -7,7 +7,7 @@
   <ul>
 <li>👩‍🎓 Computer Science student at IET-DSMNRU</li>
 <li>🧠 Full Stack Developer</li>
-<li>💻 MERN Stack</li>
+<li>💻 SDE @ Reno Platforms</li>
 <li>📧 Reach me at @nausheenzmr@gmail.com</li>
 </ul>
 </p>
