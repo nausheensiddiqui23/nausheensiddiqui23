@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="76" viewBox="0 0 600 76" role="img" aria-label="Nausheen Siddiqui">
-  <text x="300" y="48" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" letter-spacing="1.5" fill="#1a1b27">Nausheen Siddiqui</text>
-  <rect x="272" y="63" width="56" height="3" rx="1.5" fill="#3d59a1"/>
+  <defs>
+    <linearGradient id="ng" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="0.5" stop-color="#6d5bd0"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="52" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5" fill="url(#ng)">Nausheen Siddiqui</text>
 </svg>
