@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" alt="GitHub sticker-art banner" width="100%">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
     <img src="assets/name-light.svg" alt="Nausheen Siddiqui" width="460">
